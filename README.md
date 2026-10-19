@@ -2,7 +2,7 @@
 
 PHN-300 Lab-Based Project, Department of Physics, IIT Roorkee (Jan–Apr 2023), under Prof. Peayush Kumar Choubey.
 
-This project uses a feed-forward neural network and a convolutional neural network (CNN) to identify the ferromagnetic–paramagnetic phase transition of the 2D Ising model. The networks learn only from raw spin configurations, with no knowledge of the Hamiltonian. It reproduces results from Carrasquilla & Melko, *Machine learning phases of matter*, [Nature Physics 13, 431 (2017)](https://doi.org/10.1038/nphys4035).
+This project uses a feed-forward neural network and a convolutional neural network (CNN) to identify the ferromagnetic–paramagnetic phase transition of the 2D Ising model. The networks learn only from raw spin configurations, with no knowledge of the Hamiltonian. It reproduces the feed-forward network results for the 2D Ising ferromagnet from Carrasquilla & Melko, *Machine learning phases of matter*, [Nature Physics 13, 431 (2017)](https://doi.org/10.1038/nphys4035), and extends the comparison to a CNN.
 
 ## Dataset
 
